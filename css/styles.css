@@ -1,0 +1,22 @@
+body {
+    margin: 10px;
+}
+.possi {
+    width: fit-content;
+}
+.row {
+    margin: 0 !important;
+}
+.col {
+    padding: 0 !important;
+}
+.firefly {
+    background-color: greenyellow;
+    width: 3px;
+    height: 3px;
+
+    transition: all 0.1s;
+}
+.light-up {
+    background-color: greenyellow;
+}
